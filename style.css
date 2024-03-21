@@ -1,4 +1,15 @@
-body {background-color: aquamarine;
+header {
+background-color: rgb(70, 87, 133);
+color:white;
+display: flex;
+justify-content: space-around;
 }
-h1 {color: black;
+
+.cabeçalho-imagem{
+width: 20%;
+}
+
+.cabeçalho-imagem{
+    display: inline block;
+    margin:0 ;
 }
